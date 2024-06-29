@@ -73,7 +73,7 @@ function day2Part4() {
   // Try it!
   // TODO: Prompt the user for how much in in their bank account. Convert it to a number, and tell them true or false if they can buy a rocket.
   // 1. Ask the user for data
-  bank = prompt("What isin your bank account?");
+  bank = prompt("What is in your bank account?");
   // 2. convert it to a number
 
   bankNumber = Number(bank);
