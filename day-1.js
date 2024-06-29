@@ -59,7 +59,7 @@ function day1Part4() {
 let species;
 species = {};
 species.name = prompt("What species is your pet?");
-messageParagraph.innerHTML = `We are a species friendly environment. We just ask that each patron is respectful of others and their choice of pet.`;
+messageParagraph.innerHTML = `We are a species friendly environment. ${species} are always welcome. We just ask that each patron is respectful of others and their choice of pet.`;
   
 }
 
